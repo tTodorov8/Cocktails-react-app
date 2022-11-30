@@ -1,0 +1,14 @@
+.cocktail-card {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.cocktail-card h2 {
+  color: #ffffff;
+}
+.cocktail-card img {
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}/*# sourceMappingURL=gallery.css.map */

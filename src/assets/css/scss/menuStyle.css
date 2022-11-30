@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../../images/Cocktails+Banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body nav ul {
+  display: flex;
+  justify-content: center;
+}
+body nav ul li {
+  list-style-type: none;
+  margin: 15px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body nav ul a {
+  text-decoration: none;
+  color: #ffffff;
+}
+body .app-wrapper .cocktails-header {
+  font-size: 100px;
+}
+body .app-wrapper .header-wrapper {
+  text-align: center;
+  color: #ffffff;
+}/*# sourceMappingURL=menuStyle.css.map */
